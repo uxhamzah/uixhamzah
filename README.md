@@ -1,5 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uixhamzah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Pyhton, Kotlin
@@ -7,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💞️ I'm looking to collaborate on Product Design and Product Development
 - 📫 &nbsp;How to reach me: [amirhamzah.id@protonmail.com](amirhamzah.id@protonmail.com)
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://uix-hamzah.medium.com) -->
-- ⚡ &nbsp;Fun fact: I :heart: 🎨:s
+- ⚡ &nbsp;Fun fact: I :heart: 🎨
 
 
 🔗 &nbsp;**Connect with me**
