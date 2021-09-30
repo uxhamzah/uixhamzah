@@ -3,7 +3,24 @@
 <p>Welcome to my page! </br> I'm Hamzah, UX/UI Designer & Web Engineering</h3>
 
 <p>
-  <img align="left" width="490" height="165" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uixhamzah)](https://github.com/anuraghazra/github-readme-stats)"/>
+<!--   Status github -->
+<a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uixhamzah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="uixhamzah's github stats" /></a>
+ &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
+<!-- end status -->
+  
+#### Top Repositories
+
+<a href="https://github.com/uixhamzah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/uixhamzah/uixhamzah.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=uixhamzah.github.io&theme=buefy" />
+</a>
+<!--  Spasi Start -->
+<br /> 
+<br />
+<!--   end Spasi -->
+<!-- Tools -->
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -41,25 +58,16 @@
   <a href="https://www.instagram.com/uixhamzah/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/uixhamzah/"><img src="https://img.shields.io/badge/Facebook-385490.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
-<p>https://img.shields.io/github/downloads/uixhamzah/uixhamzah.github.io/total?
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
+
+<h3>⚡️ About me ⚡️</h3><br/>
 <p>
- 🔭 &nbsp;I’m currently working on something cool :wink:
- 💻 &nbsp;I’m currently learning Pyhton, Kotlin
- 💬 &nbsp;Ask me about anything related to  Design : Figma/Adobe XD/Marvel Tech : HTML/CSS/PHP/Javascript/Python or Bootsrap/Laravel/Flask
- 💞️ I'm looking to collaborate on Product Design and Product Development
- 📫 &nbsp;How to reach me: [amirhamzah.id@protonmail.com](amirhamzah.id@protonmail.com)
+🔭 &nbsp;I’m currently working on something cool :wink:"<br/>
+ 💻 &nbsp;I’m currently learning Pyhton, Kotlin"<br/>
+💞️ I'm looking to collaborate on Product Design and Product Development"<br/>
+📫 &nbsp;How to reach me: amirhamzah.id@protonmail.com "<br/>
 </p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
 </p><br/>
 <!--END_SECTION:waka-->
 </details>
