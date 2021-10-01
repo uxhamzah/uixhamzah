@@ -21,6 +21,7 @@
 <br />
 <!--   end Spasi -->
 <!-- Tools -->
+<h3> ⚙ Tools :<h3/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -39,20 +40,21 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Adobe XD&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Proto.io&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Google Analytics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe Illustrato-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Proto.io-34A7C1?style=flat-square&logo=Proto.io&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google Tag Manager-246FDB?style=flat-square&logo=Google Tag Manager&logoColor=white"/>
   </p>
 </p>
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <h3>📣 Next to contact me? Find me here :<h3/>
+  <a href="mailto:contact@uixhamzah@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Hi %20Hamzah%2C%0A%0AI%20come%20to%20you%20today%27after%20viewing%C3%A8s%20your%20GIthub%20profile%20profil%20GitHub%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/amirrhamzahh"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/uixhamzah"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dribbble.com/uixhamzah"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.behance.net/uixhamzah"><img src="https://img.shields.io/badge/behance-1DA1F2.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://dribbble.com/uixhamzah"><img src="https://img.shields.io/badge/dribbble-1DA1F2.svg?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
   <a href="https://uix-hamzah.medium.com/"><img src="https://img.shields.io/badge/Medium-0D1117.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
   <a href="https://twitter.com/uixhamzah"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/uixhamzah/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -61,7 +63,7 @@
 
 <img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
 
-<h3>⚡️ About me ⚡️</h3><br/>
+<h3>⚡️ About me ⚡️</h3>
 <p>
 🔭 &nbsp;I’m currently working on something cool :wink:"<br/>
  💻 &nbsp;I’m currently learning Pyhton, Kotlin"<br/>
