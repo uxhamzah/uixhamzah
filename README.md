@@ -51,7 +51,7 @@
 </p>
 <p>
   <h3>📣 Next to contact me? Find me here :<h3/>
-  <a href="mailto:contact@uixhamzah@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hi %20Hamzah%2C%0A%0AI%20come%20to%20you%20today%27after%20viewing%C3%A8s%20your%20GIthub%20profile%20profil%20GitHub%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:contact@uixhamzah@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hi %20Hamzah%2C%0A%0AI%20come%20to%20you%20today%20after%20looking%20on%20your%20GitHub%20for..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/amirrhamzahh"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.behance.net/uixhamzah"><img src="https://img.shields.io/badge/behance-1DA1F2.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://dribbble.com/uixhamzah"><img src="https://img.shields.io/badge/dribbble-1DA1F2.svg?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
