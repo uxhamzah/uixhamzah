@@ -68,7 +68,7 @@
 🔭 &nbsp;I’m currently working on something cool :wink:"<br/>
  💻 &nbsp;I’m currently learning Pyhton, Kotlin"<br/>
 💞️ I'm looking to collaborate on Product Design and Product Development"<br/>
-📫 &nbsp;How to reach me: amirhamzah.id@protonmail.com "<br/>
+📫 &nbsp;How to reach me: uixhamzah@gmail.com"<br/>
 </p>
 </p><br/>
 <!--END_SECTION:waka-->
