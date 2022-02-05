@@ -5,7 +5,7 @@
 <p>
 <!--   Status github -->
 <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uixhamzah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="uixhamzah's github stats" /></a>
- &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
+ &nbsp; &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
 <!-- end status -->
   
 <!-- #### Top Repositories
