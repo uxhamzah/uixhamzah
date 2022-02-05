@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hamzah, UX/UI Designer & Web Engineering</h3>
+<p>Welcome to my page! </br> I'm Hamzah, Product Designer | UX/UI Designer & Web Engineering</h3>
 
 <p>
 <!--   Status github -->
 <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uixhamzah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="uixhamzah's github stats" /></a>
-<br/>  &nbsp;  &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
+&nbsp;  &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
 <!-- end status -->
   
 <!-- #### Top Repositories
