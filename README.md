@@ -8,14 +8,14 @@
  &nbsp; <a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
 <!-- end status -->
   
-#### Top Repositories
+<!-- #### Top Repositories
 
 <a href="https://github.com/uixhamzah/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/uixhamzah/uixhamzah.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=uixhamzah.github.io&theme=buefy" />
-</a>
+</a> -->
 <!--  Spasi Start -->
 <br /> 
 <br />
