@@ -1,27 +1,27 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hamzah, Product Designer | UX/UI Designer & Web Engineering</h3>
+<p>Welcome to my page! </br> I'm Hamzah, Product Designer | UX/UI Designer & Software Enginnering</h3>
 
-<p>
+### Github Statistic
 <!--   Status github -->
-<a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&theme=buefy&hide_border=true" /></a>
-&nbsp;  &nbsp;
-<a href="https://github.com/uixhamzah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uixhamzah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="uixhamzah's github stats" /></a>
-
+<p align="left">
+<a href="https://github.com/uixhamzah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uixhamzah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&langs_count=8&theme=algolia"/>
+</a></p>
 <!-- end status -->
-  
+<!-- View -->
+<img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
+ <!-- End View -->
+ 
 <!-- #### Top Repositories
-
 <a href="https://github.com/uixhamzah/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/uixhamzah/uixhamzah.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uixhamzah&repo=uixhamzah.github.io&theme=buefy" />
 </a> -->
-<!--  Spasi Start -->
-<br /> 
-<br />
-<!--   end Spasi -->
+
 <!-- Tools -->
 <h3> ⚙ Tools :<h3/>
   <p>
@@ -52,6 +52,26 @@
   </p>
 </p>
 <p>
+
+<h3>⚡️ About me ⚡️</h3>
+<p>
+🌟 My goal is to create digital experiences that people enjoy while making a social impact. I am also passionate about building inclusive communities.
+<br/><br/>
+🌿 I am a specialist in UI/UX Design and other services [WordPress, Webflow, Bubble, Development (CMS)] and Web Development
+<br/><br/>
+🎓 I am a postgraduate student in Computer Science & Engineering (part-time) at Harapan Bersama Polytechnic.
+<br/><br/>
+✨ Outside of work and school, I create digital products or digital assets, do freelance art/design, develop my own art business, and be active on social media. Through my art business, I design merchandise and tables at conventions and manage an online shop. I also have a passion to promote the Importance of Designer's role in digital product development through my blog and social media with total followers of more than 2000+.
+<br/><br/>
+🤗 I love leading a thriving community. For example, Smit (School for Informatics & Technology Students) is a community that was formed in my lectures at the Harpan Bersama Polytechnic, Tegal.
+<br/><br/><br/>
+🙌 I have also conducted public speaking engagements with audiences ranging from elementary school to senior-level professionals on topics related to design, career growth, networking, and personal branding. I've spoken on UXID, Co-Creative Class, and more.
+<br/><br/>
+👋 Feel free to connect and reach out!
+uixhamzah@gmail.com
+<br/><br/>
+</p>
+
   <h3>📣 Next to contact me? Find me here :<h3/>
   <a href="mailto:contact@uixhamzah@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hi %20Hamzah%2C%0A%0AI%20come%20to%20you%20today%20after%20looking%20on%20your%20GitHub%20for..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/amirrhamzahh"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -62,16 +82,3 @@
   <a href="https://www.instagram.com/uixhamzah/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/uixhamzah/"><img src="https://img.shields.io/badge/Facebook-385490.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
-
-<img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
-
-<h3>⚡️ About me ⚡️</h3>
-<p>
-🔭 &nbsp;I’m currently working on something cool :wink:"<br/>
- 💻 &nbsp;I’m currently learning Pyhton, Kotlin"<br/>
-💞️ I'm looking to collaborate on Product Design and Product Development"<br/>
-📫 &nbsp;How to reach me: uixhamzah@gmail.com"<br/>
-</p>
-</p><br/>
-<!--END_SECTION:waka-->
-</details>
