@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hamzah, Product Designer | UX/UI Designer & Software Engineer</p>
+<p>Welcome to my page! </br> I'm Hamzah, Product Design & UX Engineer</p>
 
 ### Github Statistic
 <!--   Status github -->
