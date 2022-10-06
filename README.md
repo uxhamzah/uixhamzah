@@ -1,6 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hamzah, Product Design & UX Engineer</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=F74949&font=poppins&center=true&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B+I'm+Hamzah"> 
+</h1>
+
+<!-- View -->
+<img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
+ <!-- End View -->
+ 
+<p>A Passionate Product Design & UX Engineer From Indonesia </p>
+
+<details>
+<summary><b>Github Profile Trophy</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uixhamzah" alt="uixhamzah" /></a> </p>
+</details>
 
 ### Github Statistic
 <!--   Status github -->
@@ -10,9 +23,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uixhamzah&layout=compact&langs_count=8&theme=algolia"/>
 </a></p>
 <!-- end status -->
-<!-- View -->
-<img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
- <!-- End View -->
+
  
 <!-- #### Top Repositories
 <a href="https://github.com/uixhamzah/github-readme-stats">
