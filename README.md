@@ -8,8 +8,6 @@
 <!-- View -->
 <img src="http://views.whatilearened.today/views/github/uixhamzah/views.svg"/>
 <!-- End View -->
- 
-<h3 align="center">Product Design(UX/UI) | Frontend Developer</h3>
 
 ## &#x1f4c8; GitHub Stats
 ![uixhamzah's Stats](https://github-readme-stats.vercel.app/api?username=uixhamzah&theme=gotham&show_icons=true&hide_border=true&count_private=true)
